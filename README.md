@@ -1,5 +1,8 @@
 Exercice 1:
 
+Les deux programmes se trouvant dans la même machine:
+
+
 ![image](https://github.com/MarDevp/TpSysRep/assets/98918029/a19c1edd-6f23-4aff-8d0e-d10afe022f17)
 
 
