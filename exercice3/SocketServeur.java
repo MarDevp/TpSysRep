@@ -3,7 +3,7 @@ import java.net.*;
 
 public class SocketServeur {
     public static void main(String[] args) {
-        int port = 12345; // Port sur lequel le serveur écoute
+        int port = 12345; 
         
         try {
             ServerSocket serverSocket = new ServerSocket(port);
@@ -22,10 +22,10 @@ public class SocketServeur {
                 String name = (String) input.readObject();
                 System.out.println("Données reçues du client : Age = " + age + ", Nom = " + name);
                 
-                // Génération de l'identificateur client
+            
                 int clientId = clientSocket.hashCode();
                 
-                // Envoi de l'identificateur client au client
+            
                 output.writeInt(clientId);
                 output.flush();
                 
