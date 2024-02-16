@@ -23,3 +23,19 @@ Les deux programmes se trouvant dans la même machine:
 
 ![image](https://github.com/MarDevp/TpSysRep/assets/98918029/dbb78bfd-a20b-437d-b1df-cb36edf87ee3)
 
+
+
+
+Exercice 3:
+
+![image](https://github.com/MarDevp/TpSysRep/assets/98918029/0c522c67-4108-4df6-98e2-19afbe4ff967)
+
+
+
+![image](https://github.com/MarDevp/TpSysRep/assets/98918029/9c6fa88e-49c9-483f-bae3-2437ffa15a65)
+
+
+
+![image](https://github.com/MarDevp/TpSysRep/assets/98918029/3e38bbe3-05bf-44d4-a979-84ad14a79106)
+
+
